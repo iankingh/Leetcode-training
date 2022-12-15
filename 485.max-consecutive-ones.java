@@ -17,9 +17,7 @@ class Solution {
                 curCount = 0;
             }
         }
-        System.out.println("cnt " + max);
         return max;
-
     }
 }
 // @lc code=end
